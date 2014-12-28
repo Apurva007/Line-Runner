@@ -1,0 +1,6 @@
+Bachelor of Engineering - Graphics Project
+Line Runner
+
+Built Using C and OpenGL
+
+An interactive game which consists of a stickman running on a platform and jumping over obstacles while the surroundings change. As the game proceeds, levels change which increases the speed of the stickman to make the game more challenging.
